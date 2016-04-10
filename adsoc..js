@@ -2,11 +2,12 @@
 // @name                    adsoc
 // @namespace               zadrotCenter
 // @version                 0.1.2
-// @update                  https://raw.githubusercontent.com/ronen-210/adsoc/master/adsoc.v.0.1.1.js
-// @download                https://raw.githubusercontent.com/ronen-210/adsoc/master/adsoc.v.0.1.1.js
+// @update                  https://raw.githubusercontent.com/ronen-210/adsoc/master/adsoc.js
+// @download                https://raw.githubusercontent.com/ronen-210/adsoc/master/adsoc.js
 // @author                  ronen210
 // @require                 https://code.jquery.com/jquery-2.2.3.min.js
 // @resource    logins      http://tampermonkey.net/favicon.ico
+// @match                   http://ad-social.org*
 // @include                 http://ad-social.org*
 // @include                 https://www.instagram.com/accounts/login*
 // @grant                   none
