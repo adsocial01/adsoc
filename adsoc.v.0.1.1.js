@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name                    adsoc
 // @namespace               zadrotCenter
-// @version                 0.1.1
+// @version                 0.1.2
 // @update                  https://raw.githubusercontent.com/ronen-210/adsoc/master/adsoc.v.0.1.1.js
 // @download                https://raw.githubusercontent.com/ronen-210/adsoc/master/adsoc.v.0.1.1.js
 // @author                  ronen210
